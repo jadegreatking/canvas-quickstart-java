@@ -3,6 +3,9 @@ SFDC Canvas Java Template
 
 Salesforce Canvas is a mashup framework for consuming third party applications within Salesforce. Its goal is to connect applications at a UI level instead of an API level. Platform Connect will provide third party applications with a JavaScript SDK along with Java classes so they can seamlessly integrate canvas style applications, while developing in the technology and platform of their choice. 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/jadegreatking/canvas-quickstart-java)
+
+
 ### How to Build The app locally
 
     mvn package
